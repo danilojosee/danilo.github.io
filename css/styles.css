@@ -66,7 +66,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #f3ecdb;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #ff6f3d;
   text-decoration: none;
   background-color: transparent;
 }
@@ -363,7 +363,7 @@ h1, h2, h3, h4, h5, h6,
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   line-height: 1.2;
-  color: #343a40;
+  color: #3e503c;
 }
 
 h1, .h1 {
@@ -6097,33 +6097,33 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #3e503c !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #964a2c !important;
+  background-color: #ff6f3d !important;
 }
 
 .bg-secondary {
-  background-color: #6c757d !important;
+  background-color: #3e503c !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
 button.bg-secondary:hover,
 button.bg-secondary:focus {
-  background-color: #545b62 !important;
+  background-color: #3e503c !important;
 }
 
 .bg-success {
-  background-color: #28a745 !important;
+  background-color: #3e503c !important;
 }
 
 a.bg-success:hover, a.bg-success:focus,
 button.bg-success:hover,
 button.bg-success:focus {
-  background-color: #1e7e34 !important;
+  background-color: #3e503c !important;
 }
 
 .bg-info {
@@ -9799,7 +9799,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #ff6f3d !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9855,7 +9855,7 @@ a.text-light:hover, a.text-light:focus {
 }
 
 .text-dark {
-  color: #343a40 !important;
+  color: #7f886a !important;
 }
 
 a.text-dark:hover, a.text-dark:focus {
@@ -10002,7 +10002,7 @@ h3 {
 }
 body {
   padding-top: 3.375rem;
-  color: #6c757d;
+  color: #3e503c;
 }
 
 @media (min-width: 992px) {
@@ -10090,7 +10090,7 @@ p.lead {
   justify-content: center;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #495057;
+  background-color: #3e503c;
   color: #fff;
   border-radius: 100%;
   font-size: 1.5rem;
@@ -10100,7 +10100,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #ff6f3d;
 }
 
 .dev-icons {
